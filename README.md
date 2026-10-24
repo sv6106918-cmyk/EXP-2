@@ -47,17 +47,53 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+
+DIAGRAM :
+
+<img width="1665" height="741" alt="Screenshot 2026-10-18 171858" src="https://github.com/user-attachments/assets/00583f1a-ab09-4cf3-b06e-f0db61cffc14" />
+
+
+<img width="1250" height="576" alt="Screenshot 2026-10-14 173430" src="https://github.com/user-attachments/assets/e081707e-91bf-4a6e-8c34-b1210841e793" />
+
+<img width="1291" height="752" alt="Screenshot 2026-10-18 171932" src="https://github.com/user-attachments/assets/a4f80a29-0b9f-4c16-bc5a-ce6dd66524e9" />
+
+<img width="1282" height="812" alt="Screenshot 2026-10-14 173513" src="https://github.com/user-attachments/assets/34a2761a-42fd-4081-8981-f0845361531b" />
+
+
+Tabulation for Open Circuit Test:
+
+<img width="687" height="222" alt="Screenshot 2026-10-11 091308" src="https://github.com/user-attachments/assets/f7fc39fd-1fe6-4585-8793-f807afac79a1" />
+
 
 Tabulation for Load Test:
 
+<img width="693" height="220" alt="Screenshot 2026-10-11 091324" src="https://github.com/user-attachments/assets/97334bde-3bb3-4eeb-8fc4-3a4bf8d5bd10" />
+
+
 Model graph:
-Calculation: 
 
-Open circuit characteristics
+<img width="732" height="408" alt="Screenshot 2026-10-11 091634" src="https://github.com/user-attachments/assets/5ff60a39-d3a3-49d3-895f-265a84253006" />
 
-  
+
+<img width="732" height="408" alt="Screenshot 2026-10-11 091704" src="https://github.com/user-attachments/assets/31feae9a-b2b6-44bd-a82a-d98a9f2b35e3" />
+
+
+
+CALCULATIONS:
+
+
+<img width="891" height="722" alt="Screenshot 2026-10-14 183108" src="https://github.com/user-attachments/assets/525a0c9d-aec7-4d08-b7d9-f9e470393842" />
+
+
+
+<img width="841" height="511" alt="Screenshot 2026-10-14 183153" src="https://github.com/user-attachments/assets/7bc1f4f0-9166-4eb4-8e54-425502425574" />
+
+
 Load Characteristics:
+
+LOAD CHARACTERISTICS Plot load current (IL) on the X-axis and terminal voltage (V) on the Y-axis. The supplied readings show terminal voltage falling from 220 V at 1.2 A to 176 V at 12.7 A.
  
 Result:
+
 The load test on separately excited generators and to obtain the characteristics was verified.
+
